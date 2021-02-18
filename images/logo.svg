@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 155.124 44.246">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: 0.4;
+      }
+
+      .cls-2 {
+        fill: #f9f8fc;
+      }
+
+      .cls-3 {
+        fill: #fbfbfb;
+        font-size: 35px;
+        font-family: SFProDisplay-Medium, SF Pro Display;
+        font-weight: 500;
+        letter-spacing: 0.01em;
+      }
+    </style>
+  </defs>
+  <g id="logo" transform="translate(-223.876 205)">
+    <path id="Path_19" data-name="Path 19" class="cls-1" d="M24.367,25.506a2.074,2.074,0,1,1-2.26-3.479A11.639,11.639,0,0,0,23.832,3.89,2.075,2.075,0,1,1,26.709.9a15.788,15.788,0,0,1-2.343,24.605ZM5.245.529A2.074,2.074,0,1,1,8.012,3.62a11.637,11.637,0,0,0,1.113,18.2,2.075,2.075,0,0,1-2.372,3.4A15.786,15.786,0,0,1,5.245.529Z" transform="translate(262.032 -188.079) rotate(120)"/>
+    <ellipse id="Ellipse_6" data-name="Ellipse 6" class="cls-2" cx="7.086" cy="7.086" rx="7.086" ry="7.086" transform="matrix(0.839, 0.545, -0.545, 0.839, 241.418, -190)"/>
+    <text id="startup" class="cls-3" transform="translate(269 -172)"><tspan x="0" y="0">startup</tspan></text>
+  </g>
+</svg>
